@@ -1,4 +1,4 @@
-Aronlabz Tech Private Ltd., Bengaluru
+Aronlabz Tech Private Ltd., Bengaluru                2024
 
 AronLabz, founded in 2012, is a Bengaluru-based engineering startup specializing in product
 development and power electronics consulting.
@@ -13,7 +13,7 @@ communication. The system is crucial as avalanche sensors often need to be place
 function for extended periods on battery power.
 
 
-Edstem Technologies, Cochin
+Edstem Technologies, Cochin                         2023
 
 Edstem Technologies, a Kochi, India-based software development company founded in 2012, offers
 custom web, mobile, and cloud solutions for businesses of all sizes.
